@@ -1,0 +1,5 @@
+*.wav
+*.png
+*.pdf
+*.pages
+.DS_Store
