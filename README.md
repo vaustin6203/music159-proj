@@ -1,6 +1,6 @@
 # music159-proj
 
-Hello and welcome to my audio sythesizer and audio visualization tool! This is a python3 file that is interactive on the 
+Hello and welcome to my audio synthesizer and audio visualization tool! This is a python3 file that is interactive on the 
 command line, which allows you to synthesize new .wav files with various audio processing algorithms such as convolution,
 extended convolution cross-synthesis, deconvolution, heterodyning, and spectral freezing. You can perform any and all of these
 processes in any order to generate new and unique sounds! Once you are happy with what you've created, you can generate 
